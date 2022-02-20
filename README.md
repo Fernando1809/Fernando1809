@@ -3,7 +3,7 @@
 Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios 
 <img src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" >
 
-### <img src="https://media.giphy.com/media/dTxOCCvQOhRXa/giphy.gif" width="70">Soy de Jiquilisco,Ususlutan. Me gusta la musica,salidas con personas que valgan la pena llamar amigos y divertime  <img src="https://media.giphy.com/media/dTxOCCvQOhRXa/giphy.gif" width="70">
+### <img src="https://media.giphy.com/media/dTxOCCvQOhRXa/giphy.gif" width="70">Soy de Jiquilisco,Ususlutan. Me gusta la musica,salidas con amigos y divertirme <img src="https://media.giphy.com/media/dTxOCCvQOhRXa/giphy.gif" width="70">
 
 <!--
 **Fernando1809/Fernando1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
