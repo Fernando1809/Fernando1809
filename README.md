@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I´m Fherxxo 👋
+
+Software Enginner Student at University Gerardo Barrios 
+
 
 <!--
 **Fernando1809/Fernando1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
