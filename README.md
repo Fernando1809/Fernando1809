@@ -1,6 +1,7 @@
-### Hi, I´m Fherxxo 👋
+### Hi, I´m Fherxxo 👋giphy.gif
 
-Software Enginner Student at University Gerardo Barrios 
+Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios giphy.gif
+
 
 
 <!--
