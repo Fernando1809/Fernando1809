@@ -1,7 +1,7 @@
-### Hi, I´m Fherxxo 👋 <img src="https://media.giphy.com/media/TztOD2c0znrtm/giphy-downsized-large.gif" width="50">
+### Hi, I´m Fherxxo 👋 <img src="https://media.giphy.com/media/KI4A9D7lsDuJiNfWt3/giphy.gif"width="50">
 
 Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios 
-<img src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" >
+<img src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif"=50 >
 
 ### <img src="https://media.giphy.com/media/dTxOCCvQOhRXa/giphy.gif" width="70">Soy de Jiquilisco,Ususlutan. Me gusta la musica,salidas con amigos y divertirme <img src="https://media.giphy.com/media/dTxOCCvQOhRXa/giphy.gif" width="70">
 
