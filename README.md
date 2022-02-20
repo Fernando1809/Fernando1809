@@ -1,4 +1,4 @@
-### Hi, I´m Fherxxo 👋 <img src="https://media.giphy.com/media/KI4A9D7lsDuJiNfWt3/giphy.gif"width="50">
+### Hi, I´m Fherxxo 👋 <img src="https://media.giphy.com/media/KI4A9D7lsDuJiNfWt3/giphy.gif" width="50">
 
 Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios 
 <img src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif">
