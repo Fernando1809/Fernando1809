@@ -1,6 +1,6 @@
-### Hi, I´m Fherxxo 👋giphy.gif
+### Hi, I´m Fherxxo 👋
 
-Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios giphy.gif
+Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios 
 
 
 
