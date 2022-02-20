@@ -3,7 +3,7 @@
 Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios 
 <img src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" >
 
-### <img src="https://media.giphy.com/media/TztOD2c0znrtm/giphy-downsized-large.gif" width="70"> A little more about me!!  <img src="https://media.giphy.com/media/dTxOCCvQOhRXa/giphy.gif" width="70">
+### <img src="https://media.giphy.com/media/TztOD2c0znrtm/giphy-downsized-large.gif" width="70"> Un poco acerca de mi  <img src="https://media.giphy.com/media/dTxOCCvQOhRXa/giphy.gif" width="70">
 
 <!--
 **Fernando1809/Fernando1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
