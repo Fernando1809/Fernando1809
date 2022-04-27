@@ -1,7 +1,7 @@
 ### Hi, I´m Fherxxo 👋 <img src="https://media.giphy.com/media/KI4A9D7lsDuJiNfWt3/giphy.gif" width="50">
 
-Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios 
-4 ojos 👓 
+Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios.
+(4 ojos 👀👀 )
 
 <a href="https://twitter.com/Fherxxxo"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 <a href="https://www.instagram.com/feid_x.x/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
