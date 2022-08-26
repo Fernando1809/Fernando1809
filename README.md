@@ -3,7 +3,7 @@
 Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios.
 (4 ojos 👀👀 )
 
-<a href="https://https://twitter.com/Fheid_x_x"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://https://www.twitter.com/Fheid_x_x"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 <a href="https://www.instagram.com/feid_x.x/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
  <a href="mailto:ferandre1718.frg@gmail.com?subject=Mensaje%20de%20Github%20aquí"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   
