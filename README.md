@@ -11,8 +11,8 @@ Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerr
 const Fherxxo = {
   Pronouns: "He", 
   Code: [Java, Kotlin, Python],
-  CodeLearning [HTML],
-  Tools: [Python],
+  CodeLearning [HTML, CSS, JS],
+  Tools: [Python, JS],
   ToolsLearning: [Node],
   Architecture: ["Design system","Develop","FrontEnd"],
   MoreAbout: {
@@ -23,7 +23,7 @@ const Fherxxo = {
  Challenge: "To Lisa.mp3"
 }
 ```
-  
+ [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks) 
 <img src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" width="325">
 
 <!--
