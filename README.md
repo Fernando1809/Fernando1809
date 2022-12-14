@@ -23,7 +23,6 @@ const Fherxxo = {
  Challenge: "To Lisa.mp3"
 }
 ```
-[![Spotify](https://open.spotify.com/album/4d2TBM8CkLdbZ8zihhs87t?highlight=spotify:track:0vbypoLMoR0rF6k7UA332e)
 <img src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" width="325">
 
 <!--
