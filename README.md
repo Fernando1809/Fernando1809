@@ -23,7 +23,7 @@ const Fherxxo = {
  Challenge: "To Lisa.mp3"
 }
 ```
-<img src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" width="325">
+<img src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif"alt="firts slide">
 
 <!--
 **Fernando1809/Fernando1809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
