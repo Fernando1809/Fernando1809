@@ -2,7 +2,7 @@
 
 Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios.
 (4 ojos 👀👀 )
-<img class="aling items center" src="https://media.giphy.com/media/AbYxDs20DECQw/giphy.gif" alt="firts slide">
+
 
 <a class="aling items center" target="_blank" href="https://https://www.twitter.com/Fheid_x_x"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 <a target="_blank" href="https://www.instagram.com/feid_x.x/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
