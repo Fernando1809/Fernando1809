@@ -1,4 +1,4 @@
-### Hi, I´m Fherxxo 👋 <img src="https://media.giphy.com/media/KI4A9D7lsDuJiNfWt3/giphy.gif" width="50">
+### Hi, my name is Fherxxo👋 <img src="https://media.giphy.com/media/KI4A9D7lsDuJiNfWt3/giphy.gif" width="50">
 
 Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios.
 (4 ojos 👀👀 )
@@ -24,7 +24,7 @@ const Fherxxo = {
                       },
   }
 ```
-   Favorite Song: "To Lisa.mp3" 👉 <a class="aling items center" target="_blank" href="https://open.spotify.com/album/4d2TBM8CkLdbZ8zihhs87t?si=u9nK-p5TRXibM1TfEEgpyQ"><img src="https://img.shields.io/badge/spotify-%17F800.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> 👈
+  My Favorite Song: "To Lisa.mp3" 👉 <a class="aling items center" target="_blank" href="https://open.spotify.com/album/4d2TBM8CkLdbZ8zihhs87t?si=u9nK-p5TRXibM1TfEEgpyQ"><img src="https://img.shields.io/badge/spotify-%17F800.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> 👈
 
 
 <!--
