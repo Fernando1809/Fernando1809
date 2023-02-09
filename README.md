@@ -15,7 +15,7 @@ const Fherxxo = {
   Code: [Java, Kotlin, Python],
   CodeLearning [HTML, CSS, JS],
   Tools: [Python, JS],
-  ToolsLearning: [Node],
+  ToolsLearning: [Node, MongoAtlas, HTML, JS, CSS, PHP],
   Architecture: ["Design system","Develop","FrontEnd"],
   MoreAbout: {
                         Speaker: "Spanish"
