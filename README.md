@@ -1,7 +1,7 @@
 ### Hi, my name is EL FHERXXO👋 <img src="https://media.giphy.com/media/KI4A9D7lsDuJiNfWt3/giphy.gif" width="50">
 
-Estudiante de Ingenieria en Sistemas y Redes Informaticas de la Universidad Gerrardo Barrios.
-(4 ojos 👀👀 )
+Systems engineering student at Gerardo Barrios University.
+(4 eyes 👀👀 )
 
 
 <a class="aling items center" target="_blank" href="https://https://www.twitter.com/Fheid_x_x"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
