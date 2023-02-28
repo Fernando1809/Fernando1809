@@ -1,5 +1,4 @@
 <h2> Hi, my name is EL FHERXXO👋<img src="https://media.giphy.com/media/KI4A9D7lsDuJiNfWt3/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="230">
 <p><em> Software Enginner Student at <a href="https://ugb.edu.sv/">University Gerardo Barrios </a></br>Developer Student at <a href="https://ugb.edu.sv/ing-en-sistemas-y-redes-informaticas.html">Ingeniería en Sistemas y Redes Informaticas </a>
 </em></p>
 <a class="aling items center" target="_blank" href="https://https://www.twitter.com/Fheid_x_x"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
