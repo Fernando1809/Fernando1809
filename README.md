@@ -16,7 +16,7 @@
 const Fherxxo = {
   Pronouns: "He", 
   Code: [Java, Kotlin, Python],
-  CodeLearning [HTML, CSS, JS],
+  CodeLearning: [HTML, CSS, JS],
   Tools: [Python, JS],
   ToolsLearning: [Node, MongoAtlas, HTML, JS, CSS, PHP],
   Architecture: ["Design system","Develop","FrontEnd"],
