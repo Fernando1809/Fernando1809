@@ -27,6 +27,6 @@ const Fherxxo = {
                       },
   }
 ```
-  My Favorite Song: "To Lisa.mp3" 👉 <a class="aling items center" target="_blank" href="https://open.spotify.com/album/4d2TBM8CkLdbZ8zihhs87t?si=u9nK-p5TRXibM1TfEEgpyQ"><img src="https://img.shields.io/badge/spotify-%17F800.svg?&style=for-the-badge&logo=spotify&logoColor=white" /> 👈
- 
+ My Favorite Song: "To Lisa.mp3" 👉 <a class="aling items center" target="_blank" href="[https://music.apple.com/us/album/to-lisa/1234567890](https://music.apple.com/sv/album/run-bts/1627573936?i=1627575780)"><img src="https://img.shields.io/badge/apple%20music-%23FA243C.svg?&style=for-the-badge&logo=apple-music&logoColor=white" /> 👈</a>
+
    
