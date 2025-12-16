@@ -1,5 +1,5 @@
 <h2>Hola, me llamo Fernando pero pedes decirme Fher👋<img src="https://media.giphy.com/media/KI4A9D7lsDuJiNfWt3/giphy.gif" width="50"></h2>
-<p><em>Egresado de <a href="https://ugb.edu.sv/ing-en-sistemas-y-redes-informaticas.html">Ingeniería en Sistemas y Redes Informaticas </a>
+<p><em>Egresado de <a href="https://ugb.edu.sv/ingenieria-en-sistemas-y-redes-informaticas-semipresencial/">Ingeniería en Sistemas y Redes Informaticas </a>
 </em></p>
 <h2>Puedes encontrarme en:</h2>
 
