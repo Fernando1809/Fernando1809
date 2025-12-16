@@ -3,23 +3,12 @@
 </em></p>
 <h2>Puedes encontrarme en:</h2>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <a class="aling items center" target="_blank" href="https://twitter.com/FherGNZLZ" style="display: inline-block; width: 180px; height: 28px;">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X" style="width: 100%; height: 100%; object-fit: contain;" />
-  </a>
-  
-  <a target="_blank" href="https://www.instagram.com/__fherxxo__/" style="display: inline-block; width: 180px; height: 28px;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="width: 100%; height: 100%; object-fit: contain;" />
-  </a>
-  
-  <a target="_blank" href="mailto:ferandre1718.frg@gmail.com?subject=Mensaje%20de%20Github%20aquí" style="display: inline-block; width: 180px; height: 28px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="width: 100%; height: 100%; object-fit: contain;" />
-  </a>
-  
-  <a class="aling items center" target="_blank" href="https://www.linkedin.com/in/fernando-gonz%C3%A1lez-05b297232/" style="display: inline-block; width: 180px; height: 28px;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 100%; height: 100%; object-fit: contain;" />
-  </a>
-</div>
+<a class="aling items center" target="_blank" href="https://twitter.com/FherGNZLZ">
+  <img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+</a>
+<a target="_blank" href="https://www.instagram.com/__fherxxo__/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /> 
+<a target="_blank" href="mailto:ferandre1718.frg@gmail.com?subject=Mensaje%20de%20Github%20aquí"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /> 
+ <a class="aling items center" target="_blank" href="https://www.linkedin.com/in/fernando-gonz%C3%A1lez-05b297232/"><img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   
 
   
