@@ -24,7 +24,6 @@ const Fherxxo = {
   Architecture: ["Design system","Develop","FrontEnd"],
   MoreAbout: {
                         Speaker: "Spanish"
-                        Dream: "Marrie with Michelle Perez💜💚",
                         FavoriteFood: "Pizza & Subway's"
                       },
   }
